@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{920E08C7-A610-45D0-A9ED-3B7F341D4A76}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CSharpStar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpStar/ExceptionHandling.cs">
+    <Files>
+      <File FileName="CSharpStar/TaskCancelling.cs" Line="1" Column="1" />
+      <File FileName="CSharpStar/TaskProgramming.cs" Line="34" Column="15" />
+      <File FileName="CSharpStar/TaskWaiting.cs" Line="8" Column="9" />
+      <File FileName="CSharpStar/ExceptionHandling.cs" Line="16" Column="77" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpStar" expanded="True">
+            <Node name="CSharpStar" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

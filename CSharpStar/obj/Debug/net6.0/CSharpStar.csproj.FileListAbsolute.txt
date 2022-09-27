@@ -1,0 +1,15 @@
+/Users/liuming/Projects/CSharpStar/CSharpStar/bin/Debug/net6.0/CSharpStar
+/Users/liuming/Projects/CSharpStar/CSharpStar/bin/Debug/net6.0/CSharpStar.deps.json
+/Users/liuming/Projects/CSharpStar/CSharpStar/bin/Debug/net6.0/CSharpStar.runtimeconfig.json
+/Users/liuming/Projects/CSharpStar/CSharpStar/bin/Debug/net6.0/CSharpStar.dll
+/Users/liuming/Projects/CSharpStar/CSharpStar/bin/Debug/net6.0/CSharpStar.pdb
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/CSharpStar.csproj.AssemblyReference.cache
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/CSharpStar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/CSharpStar.AssemblyInfoInputs.cache
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/CSharpStar.AssemblyInfo.cs
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/CSharpStar.csproj.CoreCompileInputs.cache
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/CSharpStar.dll
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/refint/CSharpStar.dll
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/CSharpStar.pdb
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/CSharpStar.genruntimeconfig.cache
+/Users/liuming/Projects/CSharpStar/CSharpStar/obj/Debug/net6.0/ref/CSharpStar.dll
