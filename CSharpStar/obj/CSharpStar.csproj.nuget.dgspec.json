@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/liuming/Projects/csharpstar/CSharpStar/CSharpStar/CSharpStar.csproj": {}
+    "/Users/liuming/Projects/CSharpStar/CSharpStar/CSharpStar.csproj": {}
   },
   "projects": {
-    "/Users/liuming/Projects/csharpstar/CSharpStar/CSharpStar/CSharpStar.csproj": {
+    "/Users/liuming/Projects/CSharpStar/CSharpStar/CSharpStar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/liuming/Projects/csharpstar/CSharpStar/CSharpStar/CSharpStar.csproj",
+        "projectUniqueName": "/Users/liuming/Projects/CSharpStar/CSharpStar/CSharpStar.csproj",
         "projectName": "CSharpStar",
-        "projectPath": "/Users/liuming/Projects/csharpstar/CSharpStar/CSharpStar/CSharpStar.csproj",
+        "projectPath": "/Users/liuming/Projects/CSharpStar/CSharpStar/CSharpStar.csproj",
         "packagesPath": "/Users/liuming/.nuget/packages/",
-        "outputPath": "/Users/liuming/Projects/csharpstar/CSharpStar/CSharpStar/obj/",
+        "outputPath": "/Users/liuming/Projects/CSharpStar/CSharpStar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/liuming/.nuget/NuGet/NuGet.Config"
