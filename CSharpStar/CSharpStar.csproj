@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="S3-ConcurrentCollections\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="S3-ConcurrentCollections\" />
+  </ItemGroup>
 </Project>
