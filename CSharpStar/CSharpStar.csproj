@@ -9,8 +9,12 @@
 
   <ItemGroup>
     <None Remove="S3-ConcurrentCollections\" />
+    <None Remove="S4-TaskCoordination\" />
+    <None Remove="S4-TaskCoordination\Barrier\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="S3-ConcurrentCollections\" />
+    <Folder Include="S4-TaskCoordination\" />
+    <Folder Include="S4-TaskCoordination\Barrier\" />
   </ItemGroup>
 </Project>

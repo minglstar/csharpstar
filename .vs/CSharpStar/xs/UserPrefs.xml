@@ -5,7 +5,8 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="CSharpStar/Program.cs">
     <Files>
-      <File FileName="CSharpStar/Program.cs" Line="1" Column="1" />
+      <File FileName="CSharpStar/Program.cs" Line="2" Column="1" />
+      <File FileName="CSharpStar/S3-ConcurrentCollections/21_BlockingCollectionNtheProducerconsumerPattern.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,6 +15,10 @@
             <Node name="CSharpStar" expanded="True">
               <Node name="S1-TaskProgramming" expanded="True" />
               <Node name="S2-DataSharingNSynchronization" expanded="True" />
+              <Node name="S3-ConcurrentCollections" expanded="True" />
+              <Node name="S4-TaskCoordination" expanded="True">
+                <Node name="Barrier" expanded="True" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
