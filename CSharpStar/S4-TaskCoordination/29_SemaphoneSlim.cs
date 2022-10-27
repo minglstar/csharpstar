@@ -7,7 +7,7 @@ namespace CSharpStar
     class SemaphoreDemo
     {
 
-        static void Main()
+/*        static void Main()
         {
             var semaphore = new SemaphoreSlim(2, 10);
 
@@ -27,7 +27,7 @@ namespace CSharpStar
                 Console.ReadKey();
                 semaphore.Release(2); // ReleaseCount += n
             }
-        }
+        }*/
     }
 }
 

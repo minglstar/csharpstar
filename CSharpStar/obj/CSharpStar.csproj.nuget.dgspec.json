@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/liuming/Projects/CSharpStar/CSharpStar/CSharpStar.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\csharpstar\\CSharpStar\\CSharpStar.csproj": {}
   },
   "projects": {
-    "/Users/liuming/Projects/CSharpStar/CSharpStar/CSharpStar.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\csharpstar\\CSharpStar\\CSharpStar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/liuming/Projects/CSharpStar/CSharpStar/CSharpStar.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\csharpstar\\CSharpStar\\CSharpStar.csproj",
         "projectName": "CSharpStar",
-        "projectPath": "/Users/liuming/Projects/CSharpStar/CSharpStar/CSharpStar.csproj",
-        "packagesPath": "/Users/liuming/.nuget/packages/",
-        "outputPath": "/Users/liuming/Projects/CSharpStar/CSharpStar/obj/",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\csharpstar\\CSharpStar\\CSharpStar.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\csharpstar\\CSharpStar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/liuming/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

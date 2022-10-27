@@ -14,7 +14,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="S3-ConcurrentCollections\" />
-    <Folder Include="S4-TaskCoordination\" />
     <Folder Include="S4-TaskCoordination\Barrier\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="BenchmarkDotNet" Version="0.13.2" />
   </ItemGroup>
 </Project>
