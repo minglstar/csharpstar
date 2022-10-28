@@ -38,10 +38,10 @@ namespace CSharpStar
             });
         }
 
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             var summary = BenchmarkRunner.Run<Partition>();
             Console.WriteLine(summary);
-        }
+        }*/
     }
 }
