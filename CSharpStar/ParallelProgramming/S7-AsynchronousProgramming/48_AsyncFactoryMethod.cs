@@ -29,13 +29,13 @@ namespace CSharpStar.S7_AsynchronousProgramming
 
         public class Demo 
         {
-            static async void Main(string[] args)
+           /* static async void Main(string[] args)
             {
-                /*var foo = new Foo();
-                await foo.InitAsync();*/
+                *//*var foo = new Foo();
+                await foo.InitAsync();*//*
                 Foo x = await Foo.createAsync();
                 Console.WriteLine(x);
-            }
+            }*/
         }
     }
 }
