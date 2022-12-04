@@ -21,7 +21,7 @@ foreach (var book in cheapBooks)
 }*/
 
 // Events
-using CSharpStar.AdvancedTopics.Events;
+/*using CSharpStar.AdvancedTopics.Events;
 
 var video = new Video() { Title = "Video 1"};
 var videoEncoder = new VideoEncoder(); // publisher
@@ -29,6 +29,6 @@ var mailService = new MailService(); // subscriber
 
 videoEncoder.VideoEncoded += mailService.OnVideoEncoded;
 
-videoEncoder.Encode(video);
+videoEncoder.Encode(video);*/
 
 

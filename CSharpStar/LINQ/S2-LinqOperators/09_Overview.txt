@@ -1,0 +1,14 @@
+﻿!Important Note
+
+Some operators are immediate
+	- They iterate the entire collection as soon as they are invoked(调用，激活 to begin to run a program). For example: Count(), ToArray()
+	- Iterating a collcetion more than once is a bad idea
+		+ R#/Rider will warn you of this
+
+Some operators are deferred
+	- Calculations will only happen when you iterate the collection
+	- E.g., Enumerable.Range(1,10).Select(rand.Next(10))
+	  will yeild a completely different sequence of random numbers each time it is iterated
+	- Deferred operations can be
+		+ Streaming - do not have to read all data before elements are yeilded
+		+ Non-streaming - must read all source data before they yeild an element

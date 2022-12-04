@@ -1,0 +1,26 @@
+﻿IEnumberable<T> is an interface
+	- Has a weakly-typed IEnumerable counterpart
+
+LINQ are implemented as extension methods on
+	- IEnumberable<T>, taking Func<> arguments
+	  This is called LINQ to Objects and is used for in-memory objects
+	- Iqueryable<T>, taking Expression<> arguments
+	  This is used in e.g. LINQ to Entities (EF) for databases and remote connections
+
+IEnumberable<T> Is Special
+
+Used by foreach
+
+Methods that return IEnumerable or IEnumerator are considered iterator methods
+	- yield return x;
+	  returns a single iterated value
+	- yield break;
+	  break the iteration
+
+IEnumberable<T> vs Enumberable
+
+Enumerable is a concrete class, not an interface!
+
+Contains:
+	- Static generator methods for making sequences. e.g., Enumberable.Range()
+	- LINQ extension method definitions

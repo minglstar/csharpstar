@@ -1,0 +1,21 @@
+﻿LINQ = language integrated query
+
+A technology for searching and filterling data sets
+	- LINQ to Objects: for working with arrays, list, etc/
+	- LINQ to ENtities: for databases
+	- LINQ to XML
+	- LINQ to ...
+
+Why? Because processing data with for/foreach loops is tedious.
+
+
+LINQ is implemented in two different ways:
+	- Extension methods (operators, common used)
+	- Query expression syntax: SQL-like syntax directly embedded into C# (not covering in this course)
+
+LINQ operators are higher-order functions
+	- Functions taking functions
+	- to filter out elements, a LINQ operator takes a predicate i.e. a Func<T, bool>
+
+LINQ operators presnet a fluent interface
+	- Calls can be chained

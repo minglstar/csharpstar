@@ -1,0 +1,13 @@
+<Query Kind="Statements" />
+
+var numbers = new[]{ 3, 3, 2, 2, 1, 1, 2, 2, 3, 3 };
+
+Console.WriteLine(numbers.Skip(2).Take(6));
+
+Console.WriteLine(new int[]{}.Take(2));
+
+// skip while a condition holds
+// will break the action when the condition fails
+Console.WriteLine(numbers.SkipWhile(i => i == 3));  // 2, 2, 1, 1, 2, 2, 3, 3
+Console.WriteLine(numbers.SkipWhile(i => i == 2)); // null, stop because the first element violates the condition
+Console.WriteLine(numbers.TakeWhile(i => i > 1)); // 3, 3, 2, 2

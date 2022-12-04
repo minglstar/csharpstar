@@ -13,6 +13,9 @@
     <None Remove="ParallelProgramming\S4-TaskCoordination\Barrier\" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="LINQ\S5-ExtraTopics\" />
+    <Folder Include="LINQ\S4-ParallelLINQ\" />
+    <Folder Include="LINQ\S3-LINQnDatabases\" />
     <Folder Include="ParallelProgramming\S3-ConcurrentCollections\" />
   </ItemGroup>
   <ItemGroup>
